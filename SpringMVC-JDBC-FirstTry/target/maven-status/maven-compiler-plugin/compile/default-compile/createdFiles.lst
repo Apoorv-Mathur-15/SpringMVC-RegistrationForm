@@ -1,0 +1,7 @@
+com\in28Minutes\jdbc\TodoEventService.class
+com\in28Minutes\login\LoginController.class
+com\in28Minutes\model\TodoEvent.class
+com\in28Minutes\hsql\HsqlDatabase.class
+com\in28Minutes\jdbc\TodoDataService.class
+com\in28Minutes\login\LoginService.class
+com\in28Minutes\model\TodoData.class
